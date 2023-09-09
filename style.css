@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://wallpapers.com/images/hd/black-animal-cat-portrait-g6kd3abccwmotlg7.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: beige;
+    font-family: 'Caveat', cursive;
+
+}
+#h1{
+    color: yellowgreen;
+    font-family: 'Satisfy', cursive;
+    text-shadow: 2px 2px 15px whitesmoke;
+}
+#btn{
+    background-color: blueviolet;
+    color: black;
+    border-radius: 20%;
+    box-shadow: 5px 5px 30px whitesmoke;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+
